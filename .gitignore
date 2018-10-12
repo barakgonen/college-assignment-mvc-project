@@ -1,2 +1,7 @@
 .vscode/
+.vs/
 /obj/Debug
+/obj/
+/bin/*
+obj/college-assignment-mvc-project.csproj*
+obj/college-assignment-mvc-project.csproj.nuget.cache
